@@ -1,0 +1,4 @@
+Your determinant here: 
+[3] [-4] 
+[2] [12] 
+Determinant is [44]
